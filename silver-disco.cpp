@@ -1,3 +1,7 @@
+// Projeto Silver Disco
+//
+// marco.mangan@pucrs.br
+
 #include <iostream>
 
 using namespace std;
